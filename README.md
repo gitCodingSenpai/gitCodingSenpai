@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gitCodingSenpai
 - 👀 I’m interested in Video Gaming
-- 🌱 I’m currently learning how to create mods
+- 🌱 I’m currently learning programming languages
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
